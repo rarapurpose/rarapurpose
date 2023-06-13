@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @rarapurpose
-- 👀 I’m interested in python, java
-- 🌱 I’m currently learning java, ruby
+- 🌟 MY PURPOSE SHELL SET ME FREE.
+- 👀 I’m interested in Python, Java, Javascript
+- 🔥 I’m currently learning Java, Ruby also JavaScript 🔥
 
 <!---
 rarapurpose/rarapurpose is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
